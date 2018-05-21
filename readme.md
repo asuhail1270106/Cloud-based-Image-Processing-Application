@@ -10,4 +10,4 @@
 #### This script destroys created load balancers, launch configs, auto-scaling groups, S3 bucket, and created DB instances.
 
 ### Assumptions/Clarifications
-#### There is a cloudwatch php script included in this repo. After running the project, you can simply run the script and it will display the top 3 Datapoints from the EC2 Cloudwatch Metrics Array as well as the number of jobs processed and not processed via the status fields in the DB.
+#### There is a cloudwatch php script included in this repo. After running the project, you can simply run the script and it will display the top 3 Datapoints from the EC2 Cloudwatch Metrics Array as well as the number of jobs processed and not processed via the status fields in the DB. Also, before running the application, make sure to unzip the vendor.zip file in the vendor folder.
