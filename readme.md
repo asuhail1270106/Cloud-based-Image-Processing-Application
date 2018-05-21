@@ -1,5 +1,5 @@
 # Image Processing Application
-#### This is an elastic scaling application that can be deployed on the AWS cloud platform. Its main funtion is to accept a large number of photos and put them through a PHP image filter. When the application is deployed, it uses auto scaling groups, load balancers, Amazon RDS, Amazon S3 storage, Amazon CloudWatch, and custom configured AMIs.
+#### This is an elastic scaling application that can be deployed on the AWS cloud platform. Its main funtion is to accept a large number of photos and put them through a PHP image filter. When the application is deployed, it uses auto scaling groups, load balancers, Amazon RDS, Amazon S3 storage, Amazon CloudWatch, Amazon Simple Notification Service, Amazon Simple Queue Service, and custom configured AMIs.
 
 ## Scripts/Additional Information
 
